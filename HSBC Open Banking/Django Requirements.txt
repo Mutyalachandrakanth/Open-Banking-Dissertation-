@@ -1,0 +1,4 @@
+python-jwt : pip install PyJWT
+pip install pycryptodomex
+python -m pip install django-cors-headers
+pip3 install requests
